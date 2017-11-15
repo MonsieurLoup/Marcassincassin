@@ -1,0 +1,18 @@
+div {
+    width: 600px;
+    height: 160px;
+    background-color: aqua;
+    border: 2px solid #000;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+p {
+   text-align:justify; 
+}
+
+h1 {
+    color: brown;
+    font-family: Courier;
+}
